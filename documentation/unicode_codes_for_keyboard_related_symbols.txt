@@ -1,0 +1,34 @@
+﻿
+Menu =  1D306
+Return = 23CE
+Tab Left = 21E4
+Tab Right = 21E5
+Backspace = 23B2
+Shift = 21E7
+Space = 2423
+Return = 23CE
+
+Play = 23F5
+Pause = 23F8
+Play/Pause = 23EF
+Reverse = 23F4
+Stop = 23F9
+Back fast = 23EA
+Fast forward = 23E9
+Skip backward = 23EE
+Skip forward = 23ED
+Record = 23FA
+Eject = 23CF
+Shuffle = 1F501
+Repeat once = 1F502
+vol mute = 1F507
+vol down = 1F509
+vol up = 1F50A
+
+refresh = 27F3
+
+arrows solid black = 2B05 - 2B07
+arrow solid black = 2B60 - 2B63
+https://www.compart.com/en/unicode/block/U+1F800
+
+Mathematical Alphanumeric Symbols = 1D400 - 1D7FF

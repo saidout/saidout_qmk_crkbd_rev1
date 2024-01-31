@@ -1,0 +1,25 @@
+[
+    {
+        "name": "management_layer",
+        "css": ".keytop {background-color: #000000 !important;}\n.keylabel0, .keylabel1, .keylabel2, .keylabel3,\n.keylabel4, .keylabel5, .keylabel6, .keylabel7,\n.keylabel8, .keylabel9, .keylabel10, .keylabel1 {\n    color: #FFFFFF !important;\n}"
+    },
+    [{y:-0.1,x:3.15,c:"#00FF80",a:5,fa:[0,2,0,0,0,0,4]},"\nDFC\n\n\n\n\nQUS",{x:8.2,c:"#000000",a:7},""],
+    [{y:-0.9,x:2.1,c:"#00FF80",a:5},"\nDFC\n\n\n\n\nCUS",{x:1.1,c:"#000000",a:7},"",{x:6.1},"",{x:1.1},""],
+    [{y:-0.9,x:5.25},""],
+    [{y:-1,x:10.25,c:"#0000FF",a:5,fa:[0,1,0,0,0,0,4]},"\nRLC\n\n\n\n\nTG"],
+    [{y:-0.85,c:"#FFFFFF"},"Esc",{x:0.05,c:"#000000"},"",{x:12.4},"",{x:0.05,c:"#FF0000",f:3},"BOOT"],
+    [{y:-0.3,x:3.15,c:"#00FF80",a:5,fa:[4,2,0,0,0,0,4]},"\nDFC\n\n\n\n\nQSE",{x:8.2,c:"#000000",a:7},""],
+    [{y:-0.9,x:2.1,c:"#00FF80",a:5},"\nDFC\n\n\n\n\nCSE",{x:1.1,c:"#000000",a:7},"",{x:6.1},"",{x:1.1},""],
+    [{y:-0.9,x:5.25},"",{x:4},""],
+    [{y:-0.85,c:"#FFFFFF"},"C_⌫",{x:0.05,c:"#000000"},"",{x:12.4},"",{x:0.05,c:"#FFFFFF",a:5},"\nTD\n\n\n\n\nMOU"],
+    [{y:-0.3,x:3.15,c:"#00FF80"},"\nDFC\n\n\n\n\nQEN",{x:8.2,c:"#000000",a:7},""],
+    [{y:-0.9,x:2.1,c:"#00FF80",a:5},"\nDFC\n\n\n\n\nCEN",{x:1.1,c:"#000000",a:7},"",{x:6.1},"",{x:1.1},""],
+    [{y:-0.9,x:5.25,c:"#FF8000",a:5},"\nTG\n\n\n\n\nMNG",{x:4,c:"#000000",a:7},""],
+    [{y:-0.85,c:"#FFFFFF"},"⌫",{x:0.05,c:"#000000"},"",{x:12.4},"",{x:0.05},""],
+    [{x:3.7,c:"#FF8000",a:5,fa:[2,1,0,0,0,0,4]},"O_A\nTD\n\n\n\n\nO_C"],
+    [{rx:1.9,ry:-1.8,y:5.15,x:9.95},"FUN\nTD\n\n\n\n\nNUM"],
+    [{r:10,rx:0.9,ry:-0.8,y:3.35,x:4.75},"O_G\nTD\n\n\n\n\nO_S"],
+    [{r:20,rx:1.9,ry:-1.8,y:3.35,x:6},"NAV\nTD\n\n\n\n\nSYM"],
+    [{r:-20,rx:-0.85,ry:3.85,y:3.35,x:9.5,a:7,fa:[9]},"⏎"],
+    [{r:-10,rx:2,ry:6.05,y:-1,x:8.9,a:5},"␣"]
+]

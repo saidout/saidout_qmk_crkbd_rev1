@@ -1,0 +1,25 @@
+[
+    {
+        "name": "default_layer",
+        "css": ".keytop {background-color: #000000 !important;}\n.keylabel0, .keylabel1, .keylabel2, .keylabel3,\n.keylabel4, .keylabel5, .keylabel6, .keylabel7,\n.keylabel8, .keylabel9, .keylabel10, .keylabel1 {\n    color: #FFFFFF !important;\n}"
+    },
+    [{y:-0.1,x:3.15,c:"#000000",a:5,fa:[0,2,0,0,0,0,4]},"\nE\n\n\n\n\nF",{x:8.2},"\nI\n\n\n\n\nU"],
+    [{y:-0.9,x:2.1},"\nW\n\n\n\n\nW",{x:1.1},"\nR\n\n\n\n\nP",{x:6.1},"\nU\n\n\n\n\nL",{x:1.1},"\nO\n\n\n\n\nY"],
+    [{y:-0.9,x:5.25},"\nT\n\n\n\n\nB"],
+    [{y:-1,x:10.25},"\nY\n\n\n\n\nJ"],
+    [{y:-0.85,a:7},"Esc",{x:0.05,a:5},"\nQ\n\n\n\n\nQ",{x:12.4,a:4,fa:[0,2,0,0,0,0,4,1,0,4,2]},"\n\n\n\n\n\n\nLL\n\n;\nP",{x:0.05,fa:[0,2,1,0,0,0,4,1,4,2,1]},"\n\nLL\n\n\n\n\n\n'\nMOU\nLD"],
+    [{y:-0.3,x:3.15,a:5},"\nD\n\n\n\n\nS",{x:8.2},"\nK\n\n\n\n\nE"],
+    [{y:-0.9,x:2.1},"\nS\n\n\n\n\nR",{x:1.1},"\nF\n\n\n\n\nT",{x:6.1},"\nJ\n\n\n\n\nN",{x:1.1},"\nL\n\n\n\n\nI"],
+    [{y:-0.9,x:5.25},"\nG\n\n\n\n\nG",{x:4},"\nH\n\n\n\n\nM"],
+    [{y:-0.85,a:7},"C_⌫",{x:0.05,a:5,f:3},"\nA\n\n\n\n\nA",{x:12.4,a:4,fa:[0,2,1,1,0,0,4,1,4,4,2]},"\n\n\nLL\n\n\n\n\n\nO\n;",{x:0.05,fa:[0,2,1,1,0,0,4,1,2,4,2]},"\n\n\n\n\n\n\nLL\nÄ\n'"],
+    [{y:-0.3,x:3.15,a:5},"\nC\n\n\n\n\nC",{x:8.2,a:4},"\n\n\nLL\n\n\n\nLL\n\n,\n,"],
+    [{y:-0.9,x:2.1,a:5},"\nX\n\n\n\n\nX",{x:1.1},"\nV\n\n\n\n\nD",{x:6.1},"\nM\n\n\n\n\nH",{x:1.1},"\n.\n\n\n\n\n."],
+    [{y:-0.9,x:5.25},"\nB\n\n\n\n\nV",{x:4},"\nN\n\n\n\n\nK"],
+    [{y:-0.85,a:7},"⌫",{x:0.05,a:5,f:3},"\nZ\n\n\n\n\nZ",{x:12.4,a:4,fa:[0,2,1,1,0,0,4,1,2,4,1]},"\n\n\n\n\n\n\nLL\nÅ\n/\nLD",{x:0.05,a:5,fa:[1,1,1,1,0,0,1]},"Ö\nLD\n\n\n\n\nWTOG"],
+    [{x:3.7,fa:[2,1,1,1,0,0,4]},"O_A\nTD\n\n\n\n\nO_C"],
+    [{rx:1.9,ry:-1.8,y:5.15,x:9.95},"FUN\nTD\n\n\n\n\nNUM"],
+    [{r:10,rx:0.9,ry:-0.8,y:3.35,x:4.75},"O_G\nTD\n\n\n\n\nO_S"],
+    [{r:20,rx:1.9,ry:-1.8,y:3.35,x:6},"NAV\nTD\n\n\n\n\nSYM"],
+    [{r:-20,rx:-0.85,ry:3.85,y:3.35,x:9.5,a:7,fa:[9]},"⏎"],
+    [{r:-10,rx:2,ry:6.05,y:-1,x:8.9,a:5},"␣"]
+]
