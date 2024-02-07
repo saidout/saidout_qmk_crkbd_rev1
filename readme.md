@@ -272,11 +272,14 @@ The `OLED_RBG_TIMEOUT` is used to make sure that both the OLED display and RGB h
 ---
 ## Process tap dance advance
 The QMK tap dance was missing some features:
-* Ability to toggle layer on any of the two tap dance keys.
-* Ability to toggle one shot layer on/off by tapping the same key.
-* Ability to have one shot modifiers on any of the two tap dance keys.
-* For one shot modifiers if the key is held to turn it off and instead have the modifier pressed.
-* To toggle on/off one shot modifiers if the same modifiers is tap.
+* Layer
+    * Ability to toggle layer on any of the two tap dance keys.
+    * For one shot layer if the key is held to turn on the layer and to turn off it when the key is released.
+* Modifiers
+    * Ability to have one shot modifiers on any of the two tap dance keys.
+    * To toggle on/off one shot modifiers if the same key is tapped.
+    * For one shot modifiers if the key is held to register modifier and to unregister it when the key is released.
+
 
 This features are provided in the  
 `process_tap_dance_adv.h`  
